@@ -1,7 +1,0 @@
-Define more clearly the requirements.
-
-Add the possibility to use enter after typing the answer.
-	In case of good answer it should clear the field and launch a new test,
-	In case of wrong answer it should pop a wrong answer visual effect.
-
-
